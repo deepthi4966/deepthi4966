@@ -1,4 +1,6 @@
 DEEPTHI C
+
+
 🚀 Greetings! I'm Deepthi C, an enterprising Full Stack Developer  and UI/UX designer fueled by a relentless passion for innovation. As I continue my journey in the tech world, I am actively seeking full-time roles that challenge my coding expertise while providing opportunities to lead, collaborate, and innovate within dynamic tech ecosystems.
 
 With experience and a strong foundation in software development, I thrive in environments that encourage creativity and teamwork. My mission is to bring fresh perspectives, solve complex problems, and contribute to cutting-edge projects that push the boundaries of technology.
